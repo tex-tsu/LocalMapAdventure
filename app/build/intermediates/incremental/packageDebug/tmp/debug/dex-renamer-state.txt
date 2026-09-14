@@ -1,4 +1,4 @@
-#Mon Sep 14 17:14:11 CDT 2026
+#Mon Sep 14 17:47:47 CDT 2026
 base.0=C\:\\Users\\tex\\Desktop\\TXST\\Random\\LocalMapAdventure\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=C\:\\Users\\tex\\Desktop\\TXST\\Random\\LocalMapAdventure\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.2=C\:\\Users\\tex\\Desktop\\TXST\\Random\\LocalMapAdventure\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex

@@ -12,7 +12,8 @@ Users are instructed to visit the locations and create a post on social media (I
 ## How to run
 
 1. Open the `LocalMapAdventure` folder in **Android Studio**.
-2. Sync Gradle and run on an emulator or device (Google Play services required).
+2. Obtain a GOOGLE MAPS API KEY and paste yours in a file called local.properties in the root directory of the localMapAdventure folder.
+3. Sync Gradle and run on an emulator or device (Google Play services required).
 
 ## Project structure
 
