@@ -1,4 +1,4 @@
-# Local Map Adventure (Simplified)
+# Local Map Adventure
 
 A minimal Android app that shows a few sample locations as markers on a Google Map.
 Users are instructed to visit the locations and create a post on social media (Instagram).
